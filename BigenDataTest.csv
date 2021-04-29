@@ -1,4 +1,4 @@
-Date,Min,Max,90% percentile,10% percentile,75% percentile,25% percentile,Median,Average,
+Date,Min,Max,90% percentile,10% percentile,75% percentile,25% percentile,Median,Average,flowrate
 1-Jan,0,11.933,1.0732,0,0.4235,0,0.136,0.753444444,0.536
 2-Jan,0,12.984,3.6254,0,0.5535,0,0.138,1.159698413,0.54
 3-Jan,0,19.3,3.2776,0,0.647,0,0.148,1.393904762,0.618
